@@ -1,0 +1,12 @@
+{
+  "name":"project-node",
+  "descripcion":"",
+  "main":"server.js",
+  "scripts":{
+    "start":"node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+
+}
